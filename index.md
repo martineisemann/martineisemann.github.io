@@ -8,3 +8,5 @@ Temporary Unavailable is a character that is difficult to grasp. Whenever you th
 * Never there to help you
 * Disappears when things get rough
 
+> I cannot get into trouble!
+
